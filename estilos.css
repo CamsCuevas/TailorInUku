@@ -1,0 +1,121 @@
+img{
+    height: 100px;
+    width: 100px;
+}
+
+#collage{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px 10px;
+}
+
+.caja{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: stretch;
+}
+
+#vid1{
+    flex-basis: 300px;
+}
+
+#vid2{
+    flex-basis: 300px;
+}
+
+#vid3a{
+    flex-basis: 300px;
+}
+
+#vid3b{
+    flex-basis: 300px
+}
+
+#vid4{
+    flex-basis: 300px;
+}
+
+#vid5{
+    flex-basis: 300px;
+}
+
+#vid6{
+    flex-basis: 300px;
+}
+
+#vid7{
+    flex-basis: 300px;
+}
+
+#vid8a{
+    flex-basis: 300px;
+}
+
+#vid8b{
+    flex-basis: 300px;
+}
+
+#vid9a{
+    flex-basis: 300px;
+}
+
+#vid9b{
+    flex-basis: 300px;
+}
+
+#vid9c{
+    flex-basis: 300px;
+}
+
+#vid10a{
+    flex-basis: 300px;
+}
+
+#vid10b{
+    flex-basis: 300px;
+}
+
+p,h2,h3,h4,h5,h6,ol,ul{
+    color:midnightblue;
+    font-family: 'Fasthand', cursive;
+    font-family: 'Roboto Slab', serif;
+    font-size: large;
+}
+
+h1{
+    color:midnightblue;
+    font-family: 'Fasthand', cursive;
+    font-family: 'Roboto Slab', serif;  
+}
+
+body{
+    background-color:lavender;
+    color:midnightblue;
+}
+
+header{
+    background-color: aliceblue;
+}
+
+#elindice{
+    align-content: center;
+    align-items: center;
+    background-color: white;
+    border-style: groove;
+    border-color: rgb(237, 206, 127);
+    border-width: 20px;
+    justify-content: center;
+}
+
+.songs{
+    background-color: aliceblue;
+    padding: 10px,10px,10px,10px;
+    justify-content: center;
+}
+
+#letra1 #letra2 #letra3 #letra4 #letra5 #letra6 #letra7 #letra8 #letra9 #letra10{
+    justify-content: center;
+}
